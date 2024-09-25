@@ -7,10 +7,9 @@ body {
     box-sizing: border-box;
 }
 
-#logo_nossa_empresalogo {
+.cabeçalho {
 
     background-color: black;
-    position: absolute;
-
-
+    height: 1000px;
+    width: 1000px;
 }
