@@ -1,1 +1,35 @@
+body {
+    background-color: white;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+
+
+#Cabeçalho {
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1912px;
+    grid-template-rows: 140px;
+    background-color: black;
+}
+
+#logo {
+
+    display: grid;
+    grid-template-columns: 238px;
+    grid-template-rows: 145px;
+    position: absolute;
+
+
+}
+
+
+
+
+#botão_cadastro {
+    background-color: pink;
+}
