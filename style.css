@@ -7,10 +7,11 @@ body {
     box-sizing: border-box;
 }
 
-.cabeçalho {
+#email {
 
     background-color: black;
     height: 1000px;
     width: 1000px;
     position: absolute;
+    border-style: groove;
 }
