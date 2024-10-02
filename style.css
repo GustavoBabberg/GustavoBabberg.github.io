@@ -13,6 +13,7 @@ body {
     height: 1000px;
     width: 1000px;
     position: absolute;
-    border-style: groove;
+    border-style: solid;
     border-color: #005898;
+    
 }
