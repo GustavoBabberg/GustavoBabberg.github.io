@@ -46,8 +46,8 @@ body {
     height: 60px;
     border-radius: 10px;
     font-weight: 500;
-    top:612px;
-    left: 176px;
+    top:435px;
+    left: 75px;
     cursor: pointer;
 }
 
@@ -62,8 +62,8 @@ body {
     height: 43px;
     border-radius: 10px;
     font-weight: 500;
-    top: 684px;
-    left: 253px;
+    top: 510px;
+    left: 150px;
     cursor: pointer;
 }
 
@@ -71,8 +71,8 @@ body {
     position: absolute;
     width: 77px;
     height: 71px;
-    top: 348px;
-    left: 164px;
+    top: 270px;
+    left: 55px;
     z-index: 3;
 }
 
@@ -89,8 +89,8 @@ body {
     position: absolute;
     width: 294px;
     height: 82px;
-    left: 142px;
-    top: 241px;
+    left: 40px;
+    top: 40px;
     
 }
 
@@ -98,8 +98,8 @@ body {
     position: absolute;
     width: 77px;
     height: 71px;
-    top: 250px;
-    left: 164px;
+    top: 48px;
+    left: 55px;
     z-index: 3;
 }
 
@@ -116,8 +116,8 @@ body {
     padding-left: 110px;
     border-radius: 10px;
     font-weight: 500;
-    top: 338px;
-    left:145px;
+    top: 260px;
+    left:40px;
 }
 
 #CPF {
@@ -133,16 +133,16 @@ body {
     padding-left: 110px;
     border-radius: 10px;
     font-weight: 500;
-    top: 437px;
-    left:144px;
+    top: 150px;
+    left:40px;
 }
 
 #Cadeado2 {
     position: absolute;
     width: 77px;
     height: 71px;
-    top: 446px;
-    left: 164px;
+    top: 160px;
+    left: 55px;
     z-index: 3;
 }
 
@@ -158,9 +158,9 @@ body {
     height: 60px;
     border-radius: 10px;
     font-weight: 500;
-    top: 529px;
-    left: 191px;
-
+    top: 365px;
+    left: 90px;
+    cursor: pointer;
 }
 
 #Cabecalho {
@@ -186,6 +186,9 @@ body {
 }
 
 footer {
+    position: absolute;
+    top: 180px;
+    width: 100%;
     margin-top: 729px;
     padding: 10px 0;
     background-color: #222;
