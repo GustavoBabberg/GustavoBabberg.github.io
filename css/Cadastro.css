@@ -1,0 +1,199 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+a{
+    text-decoration: none;
+    font-style: italic;
+    color: white;
+}
+
+body {
+    
+    background-image: url('../img/EstudandoB.svg');
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+
+#Innova {
+    width: 195px;
+    height: 104px;
+    left: 94px;
+    top: 0px;
+    position: absolute;
+}
+
+#Logo {
+    position: absolute;
+    width: 187px;
+    height: 104px;
+    top: 1px;
+    left: 1611px;
+}
+
+
+#Acessar {
+    position: absolute;
+    background-color: #5C86A4;
+    border: solid;
+    border-color: #005898;
+    font-size: 34px;
+    font-style: italic;
+    color:white;
+    width: 342px;
+    height: 60px;
+    border-radius: 10px;
+    font-weight: 500;
+    top:612px;
+    left: 176px;
+    cursor: pointer;
+}
+
+#Login {
+    position: absolute;
+    background-color: black;
+    border: solid;
+    border-color: #005898;
+    font-size: 25px;
+    color:white;
+    width: 185px;
+    height: 43px;
+    border-radius: 10px;
+    font-weight: 500;
+    top: 684px;
+    left: 253px;
+    cursor: pointer;
+}
+
+#Cadeado1 {
+    position: absolute;
+    width: 77px;
+    height: 71px;
+    top: 348px;
+    left: 164px;
+    z-index: 3;
+}
+
+#Email {
+    background-color: black;
+    border: solid;
+    border-color: #005898;
+    font-size: 35px;
+    font-style:italic;
+    color:white;
+    border-radius: 10px;
+    font-weight: 500;
+    padding-left: 110px;
+    position: absolute;
+    width: 294px;
+    height: 82px;
+    left: 142px;
+    top: 241px;
+    
+}
+
+#Avatar {
+    position: absolute;
+    width: 77px;
+    height: 71px;
+    top: 250px;
+    left: 164px;
+    z-index: 3;
+}
+
+#Senha {
+    position: absolute;
+    background-color: black;
+    border: solid;
+    border-color: #005898;
+    font-size: 35px;
+    font-style:italic;
+    color:white;
+    width: 294px;
+    height: 82px;
+    padding-left: 110px;
+    border-radius: 10px;
+    font-weight: 500;
+    top: 338px;
+    left:145px;
+}
+
+#CPF {
+    position: absolute;
+    background-color: black;
+    border: solid;
+    border-color: #005898;
+    font-size: 35px;
+    font-style:italic;
+    color:white;
+    width: 294px;
+    height: 82px;
+    padding-left: 110px;
+    border-radius: 10px;
+    font-weight: 500;
+    top: 437px;
+    left:144px;
+}
+
+#Cadeado2 {
+    position: absolute;
+    width: 77px;
+    height: 71px;
+    top: 446px;
+    left: 164px;
+    z-index: 3;
+}
+
+.Opcoes {
+    position: absolute;
+    background-color: black;
+    border: solid;
+    border-color: #005898;
+    font-size: 23px;
+    font-style: italic;
+    color:white;
+    width: 310px;
+    height: 60px;
+    border-radius: 10px;
+    font-weight: 500;
+    top: 529px;
+    left: 191px;
+
+}
+
+#Cabecalho {
+    background-color: black;
+    position: absolute;
+    width: 1914px;
+    height: 105px;
+    border: solid;
+    border-color: black;
+
+}
+
+#Quadro {
+    width: 482px;
+    height: 569px;
+    position: absolute;
+    background-color: rgba(175, 175, 175, 0.75);
+    top:196px;
+    left: 105px;
+    border:solid;
+    border-color:black;
+    border-radius: 10px;
+}
+
+footer {
+    margin-top: 729px;
+    padding: 10px 0;
+    background-color: #222;
+    color: #aaa;
+    justify-items: center;
+}
+
+
+footer p {
+    font-size: 14px;
+}

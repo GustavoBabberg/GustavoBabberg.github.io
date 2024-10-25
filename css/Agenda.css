@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #353C4F;
+}
+
+.cabeçalho {
+    position: absolute;
+    background-color: black;
+    height: 67px;
+    width: 100%;
+}
+#logo-empresa {
+    position: absolute;
+    height: 67px;
+    width: 127px;
+    left: 20px;
+}
+
+.materia {
+    position: absolute;
+    height: 67px;
+    width: 232px;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    font-family: Arial;
+    font-weight: 700;
+    top: 91px;
+    left: 24px;
+}
+
+#chapeu {
+    position: absolute;
+    top: 104px;
+    left: 39px;
+}
