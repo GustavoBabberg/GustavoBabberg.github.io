@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    border: 0;
 
 }
 
@@ -52,8 +53,8 @@ a {
     height: 60px;
     border-radius: 10px;
     font-weight: 500;
-    top:612px;
-    left: 176px;
+    top:415px;
+    left: 73px;
     cursor: pointer;
 }
 
@@ -69,8 +70,8 @@ a {
     height: 43px;
     border-radius: 10px;
     font-weight: 500;
-    top: 684px;
-    left: 253px;
+    top: 500px;
+    left: 150px;
     cursor: pointer;
 }
 
@@ -78,8 +79,8 @@ a {
     position: absolute;
     width: 77px;
     height: 71px;
-    top: 425px;
-    left: 179px;
+    top: 238px;
+    left: 85px;
     z-index: 3;
 }
 
@@ -96,8 +97,8 @@ a {
     border-radius: 10px;
     font-weight: 500;
     padding-left: 110px;
-    top:279px;
-    left: 173px;
+    top:90px;
+    left: 71px;
 
 }
 
@@ -105,8 +106,8 @@ a {
     position: absolute;
     width: 77px;
     height: 71px;
-    top: 285px;
-    left: 179px;
+    top: 97px;
+    left: 85px;
     z-index: 3;
 }
 
@@ -123,8 +124,8 @@ a {
     padding-left: 110px;
     border-radius: 10px;
     font-weight: 500;
-    top: 418px;
-    left:173px;
+    top: 230px;
+    left:71px;
 }
 
 .Opcoes {
@@ -139,9 +140,9 @@ a {
     height: 60px;
     border-radius: 10px;
     font-weight: 500;
-    top: 529px;
-    left: 191px;
-
+    top: 340px;
+    left: 90px;
+    cursor: pointer;
 }
 
 #Cabecalho {
@@ -151,7 +152,7 @@ a {
     height: 105px;
     border: solid;
     border-color: black;
-
+    top: 0%;
 }
 
 #Quadro {
@@ -167,11 +168,14 @@ a {
 }
 
 footer {
+    position: absolute;
+    width: 100%;
     margin-top: 765px;
     padding: 10px 0;
     background-color: #222;
     color: #aaa;
     justify-items: center;
+    top: 144px;
 }
 
 
