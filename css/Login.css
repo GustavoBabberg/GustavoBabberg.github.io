@@ -1,0 +1,184 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+}
+
+b{
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    color: #aaa;
+}
+
+body {
+    
+    background-image: url('../img/formando.svg');
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+
+a {
+    font-style: italic;
+    color: white;
+    text-decoration: none;
+}
+
+#Innova {
+    width: 195px;
+    height: 104px;
+    left: 94px;
+    top: 0px;
+    position: absolute;
+}
+
+#Logo {
+    position: absolute;
+    width: 187px;
+    height: 104px;
+    top: 1px;
+    left: 1611px;
+}
+
+
+.Acessar {
+    position: absolute;
+    background-color: #5C86A4;
+    border: solid;
+    border-color: #005898;
+    font-size: 34px;
+    font-style: italic;
+    color:white;
+    width: 342px;
+    height: 60px;
+    border-radius: 10px;
+    font-weight: 500;
+    top:415px;
+    left: 73px;
+    cursor: pointer;
+}
+
+.Cadastro {
+    text-decoration: none;
+    position: absolute;
+    background-color: black;
+    border: solid;
+    border-color: #005898;
+    font-size: 25px;
+    color:white;
+    width: 185px;
+    height: 43px;
+    border-radius: 10px;
+    font-weight: 500;
+    top: 500px;
+    left: 150px;
+    cursor: pointer;
+}
+
+#Cadeado {
+    position: absolute;
+    width: 77px;
+    height: 71px;
+    top: 435px;
+    left: 185px;
+    z-index: 3;
+}
+
+#login {
+    position: absolute;
+    background-color: black;
+    border: solid;
+    border-color: #005898;
+    font-size: 35px;
+    font-style:italic;
+    color:white;
+    width: 231px;
+    height: 80px;
+    border-radius: 10px;
+    font-weight: 500;
+    padding-left: 110px;
+    top:90px;
+    left: 71px;
+
+}
+
+#Avatar {
+    position: absolute;
+    width: 77px;
+    height: 71px;
+    top: 295px;
+    left: 185px;
+    z-index: 3;
+}
+
+#senha {
+    position: absolute;
+    background-color: black;
+    border: solid;
+    border-color: #005898;
+    font-size: 35px;
+    font-style:italic;
+    color:white;
+    width: 231px;
+    height: 80px;
+    padding-left: 110px;
+    border-radius: 10px;
+    font-weight: 500;
+    top: 230px;
+    left:71px;
+}
+
+.Opcoes {
+    position: absolute;
+    background-color: black;
+    border: solid;
+    border-color: #005898;
+    font-size: 23px;
+    font-style: italic;
+    color:white;
+    width: 310px;
+    height: 60px;
+    border-radius: 10px;
+    font-weight: 500;
+    top: 340px;
+    left: 90px;
+    cursor: pointer;
+}
+
+#Cabecalho {
+    background-color: black;
+    position: absolute;
+    width: 1914px;
+    height: 105px;
+    border: solid;
+    border-color: black;
+    top: 0%;
+}
+
+#Quadro {
+    width: 482px;
+    height: 569px;
+    position: absolute;
+    background-color: rgba(175, 175, 175, 0.75);
+    top:196px;
+    left: 105px;
+    border:solid;
+    border-color:black;
+    border-radius: 10px;
+}
+
+footer {
+    position: absolute;
+    width: 100%;
+    margin-top: 765px;
+    padding: 10px 0;
+    background-color: #222;
+    color: #aaa;
+    justify-items: center;
+    top: 144px;
+}
+
+
+footer p {
+    font-size: 14px;
+}
