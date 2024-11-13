@@ -1,0 +1,729 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #353C4F;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.QuadroSenai {
+    background-color: black;
+    position: absolute;
+    width: 409px;
+    height: 513px;
+    left: 500px;
+    top: 140px;
+    border-radius: 10px;
+}
+
+.QuadroSesi {
+    background-color: black;
+    position: absolute;
+    width: 409px;
+    height: 513px;
+    left: 1150px;
+    top: 140px;
+    border-radius: 10px;
+}
+
+
+#LogoSenai {
+    position: absolute;
+    top: 12px;
+    left: 10px;
+    width: 170px;
+}
+
+#LogoSesi {
+    position: absolute;
+    top: 12px;
+    left: 10px;
+    width: 170px;
+}
+
+#Quadrinho1 {
+    position: absolute;
+    background-color: white;
+    border-radius: 10px;
+    width: 384px;
+    height: 70px;
+    left: 13px;
+    top: 15px;
+}
+
+#Quadrinho4 {
+    position: absolute;
+    background-color: white;
+    border-radius: 10px;
+    width: 384px;
+    height: 70px;
+    left: 13px;
+    top: 15px;
+}
+
+#Quadrinho4 h1 {
+    font-family: arial;
+    position: absolute;
+    font-size: 25px;
+    top: 21px;
+    left: 186px;
+    /*width: 1000px;*/
+}
+
+#Quadrinho1 h1 {
+    font-family: arial;
+    position: absolute;
+    font-size: 25px;
+    top: 21px;
+    left: 186px;
+    /*width: 1000px;*/
+}
+
+#Quadrinho2 {
+    background-color: white;
+    position: absolute;
+    width: 384px;
+    height: 268px;
+    left: 12px;
+    top: 105px;
+    border-radius: 10px;
+    font-family: arial;
+    font-weight: 600;
+    font-size: 21px;
+}
+
+#Quadrinho5 {
+    background-color: white;
+    position: absolute;
+    width: 384px;
+    height: 268px;
+    left: 12px;
+    top: 105px;
+    border-radius: 10px;
+    font-family: arial;
+    font-weight: 600;
+    font-size: 21px;
+}
+
+#Quadrinho2 p {
+    position: absolute;
+    top: 3px;
+    width: 330px;
+    left: 35px;
+}
+
+#Quadrinho5 p {
+    position: absolute;
+    top: 10px;
+    width: 330px;
+    left: 40px;
+    font-size: 23px;
+}
+
+#Quadrinho3 {
+    position: absolute;
+    background-color: white;
+    border-radius: 10px;
+    width: 384px;
+    height: 110px;
+    left: 13px;
+    top: 390px; 
+}
+
+#Quadrinho6 {
+    position: absolute;
+    background-color: white;
+    border-radius: 10px;
+    width: 384px;
+    height: 110px;
+    left: 13px;
+    top: 390px; 
+}
+
+.cabeçalho {
+    background-color: black;
+    height: 67px;
+    width: 100%;
+}
+#logo-empresa {
+    position: absolute;
+    height: 67px;
+    width: 127px;
+    left: 20px;
+}
+
+.School p {
+    position: absolute;
+    top: 10px;
+    left: 70px;
+    font-family: arial;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+#Quadrinho3 p {
+    position: absolute;
+    color: black;
+    font-family: arial;
+    font-weight: 600;
+    font-size: 25px;
+    padding: 15px; 
+}
+
+#Linkedin1 {
+    position: absolute;
+    color: black;
+    font-family: arial;
+    font-weight: 600;
+    font-size: 30px;
+    padding: 10px;
+    top: 5px;
+}
+
+#Linkedin2 {
+    position: absolute;
+    color: black;
+    font-family: arial;
+    font-weight: 600;
+    font-size: 30px;
+    padding: 10px;
+    top: 5px;
+}
+
+#Site1 {
+    position: absolute;
+    color: black;
+    font-family: arial;
+    font-weight: 600;
+    font-size: 30px;
+    padding: 10px;
+    top: 50px;
+}
+
+#Site2 {
+    position: absolute;
+    color: black;
+    font-family: arial;
+    font-weight: 600;
+    font-size: 30px;
+    padding: 10px;
+    top: 50px;
+}
+
+.CliqueAqui1 {
+    position: absolute;
+    background-color: #5C86A4;
+    border: solid;
+    border-color: black;
+    font-size: 20px;
+    font-style: italic;
+    color:black;
+    width: 150px;
+    height: 40px;
+    border-radius: 25px;
+    font-weight: 700;
+    top:9px;
+    left: 160px;
+    cursor: pointer;
+}
+
+.CliqueAqui2 {
+    position: absolute;
+    background-color: #5C86A4;
+    border: solid;
+    border-color: black;
+    font-size: 20px;
+    font-style: italic;
+    color:black;
+    width: 150px;
+    height: 40px;
+    border-radius: 25px;
+    font-weight: 700;
+    top:55px;
+    left: 190px;
+    cursor: pointer;
+}
+
+.CliqueAqui3 {
+    position: absolute;
+    background-color: #5C86A4;
+    border: solid;
+    border-color: black;
+    font-size: 20px;
+    font-style: italic;
+    color:black;
+    width: 150px;
+    height: 40px;
+    border-radius: 25px;
+    font-weight: 700;
+    top:9px;
+    left: 160px;
+    cursor: pointer;
+}
+
+.CliqueAqui4 {
+    position: absolute;
+    background-color: #5C86A4;
+    border: solid;
+    border-color: black;
+    font-size: 20px;
+    font-style: italic;
+    color:black;
+    width: 150px;
+    height: 40px;
+    border-radius: 25px;
+    font-weight: 700;
+    top:55px;
+    left: 190px;
+    cursor: pointer;
+}
+
+.Calendario {
+    background-color: white;
+    cursor: pointer;
+    position: absolute;
+    height: 40px;
+    top: 0px;
+    width: 250px;
+    font-family: arial;
+    border: 1px solid;
+}
+
+.Calendario p {
+    position: absolute;
+    top: 8px;
+    left: 60px;
+    font-family: arial;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+#Calendario {
+    position: absolute;
+    top: 0px;
+    left: 20px;
+}
+
+.Painel {
+    background-color: white;
+    cursor: pointer;
+    position: absolute;
+    height: 50px;
+    top: 40px;
+    width: 250px;
+    font-family: arial;
+    border: 1px solid;
+}
+
+.Painel p {
+    position: absolute;
+    top: 12px;
+    left: 60px;
+    font-family: arial;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+#Painel {
+    position: absolute;
+    top: 5px;
+    left: 15px;
+}
+
+.Painel div {
+    position: absolute;
+    background-color: #3F5796;
+    opacity: 40%;
+    top: 0px;
+    width: 248px;
+    height: 50px;
+}
+
+.School {
+    background-color: #3F5796;
+    position: absolute;
+    height: 50px;
+    top: 90px;
+    width: 248px;
+    font-family: arial;
+    border: 1px solid;
+}
+
+#School {
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    width: 47px;
+}
+
+.Matematica {
+    background-color: white;
+    cursor: pointer;
+    position: absolute;
+    height: 50px;
+    top: 142px;
+    width: 250px;
+    font-family: arial;
+    border: 1px solid;
+}
+
+.Matematica p {
+    position: absolute;
+    top: 12px;
+    left: 60px;
+    font-family: arial;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+#Matematica {
+    position: absolute;
+    top: 5px;
+    left: 15px;
+}
+
+.Portugues {
+    background-color: white;
+    cursor: pointer;
+    position: absolute;
+    height: 50px;
+    top: 192px;
+    width: 250px;
+    font-family: arial;
+    border: 1px solid;
+}
+
+.Portugues p {
+    position: absolute;
+    top: 12px;
+    left: 60px;
+    font-family: arial;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+#Portugues {
+    position: absolute;
+    top: 5px;
+    left: 15px;
+}
+
+.EdFinanceira {
+    background-color: white;
+    cursor: pointer;
+    position: absolute;
+    height: 50px;
+    top: 242px;
+    width: 250px;
+    font-family: arial;
+    border: 1px solid;
+}
+
+.EdFinanceira p {
+    position: absolute;
+    top: 12px;
+    left: 60px;
+    font-family: arial;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+#EdFinanceira {
+    position: absolute;
+    top: 5px;
+    left: 15px;
+}
+
+.Filosofia {
+    background-color: white;
+    cursor: pointer;
+    position: absolute;
+    height: 50px;
+    top: 292px;
+    width: 250px;
+    font-family: arial;
+    border: 1px solid;
+}
+
+.Filosofia p {
+    position: absolute;
+    top: 12px;
+    left: 60px;
+    font-family: arial;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+#Filosofia {
+    position: absolute;
+    top: 5px;
+    left: 15px;
+}
+
+.Historia {
+    background-color: white;
+    cursor: pointer;
+    position: absolute;
+    height: 50px;
+    top: 342px;
+    left: 0px;
+    width: 250px;
+    font-family: arial;
+    border: 1px solid;
+}
+
+.Historia p {
+    position: absolute;
+    top: 12px;
+    left: 60px;
+    font-family: arial;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+#Historia {
+    position: absolute;
+    top: 5px;
+    left: 15px;
+}
+
+.Geografia {
+    background-color: white;
+    cursor: pointer;
+    position: absolute;
+    height: 50px;
+    top: 392px;
+    left: 0px;
+    width: 250px;
+    font-family: arial;
+    border: 1px solid;
+}
+
+.Geografia p {
+    position: absolute;
+    top: 12px;
+    left: 60px;
+    font-family: arial;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+#Geografia {
+    position: absolute;
+    top: 5px;
+    left: 15px;
+}
+
+.Fisica {
+    background-color: white;
+    cursor: pointer;
+    position: absolute;
+    height: 50px;
+    top: 442px;
+    left: 0px;
+    width: 250px;
+    font-family: arial;
+    border: 1px solid;
+}
+
+.Fisica p {
+    position: absolute;
+    top: 12px;
+    left: 60px;
+    font-family: arial;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+#Fisica {
+    position: absolute;
+    top: 5px;
+    left: 15px;
+}
+
+.Quimica {
+    background-color: white;
+    cursor: pointer;
+    position: absolute;
+    height: 50px;
+    top: 492px;
+    left: 0px;
+    width: 250px;
+    font-family: arial;
+    border: 1px solid;
+}
+
+.Quimica p {
+    position: absolute;
+    top: 12px;
+    left: 60px;
+    font-family: arial;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+#Quimica {
+    position: absolute;
+    top: 5px;
+    left: 15px;
+}
+
+#Pagina {
+    position: absolute;
+    background-color: #3F5796;
+    color: black;
+    font-size: 11px;
+    height: 82px;
+    width: 250px;
+    top: 67px;
+    cursor: pointer;
+    border: white solid 1px;
+}
+
+#Pagina h1 {
+    position: absolute;
+    left: 35px;
+    top: 35px;
+    font-family: arial;
+}
+
+.Lateral {
+    position: absolute;
+    background-color: white;
+    height: 638px;
+    width: 250px;
+    top: 149px;
+}
+
+.materia {
+    position: absolute;
+    height: 67px;
+    width: 232px;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    font-family: Arial;
+    font-weight: 700;
+    top: 91px;
+    left: 24px;
+    font-size: 24px;
+}
+
+
+.RodaP {
+    position: absolute;
+    background-color: black;
+    height: 150px;
+    top: 787px;
+    width: 100% ;
+}
+
+#Siga {
+    position: absolute;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    font-weight: 700;
+    top: 30px;
+    left: 30px;
+}
+
+#YT {
+    position: absolute;
+    top: 65px;
+    left: 65px;
+}
+
+#Insta {
+    position: absolute;
+    top: 65px;
+    left: 150px;
+}
+
+#empresa {
+    position: absolute;
+    height: 84px;
+    width: 130px;
+    top: 40px;
+    left: 500px;
+}
+
+#Line {
+    position: absolute;
+    top: 1px;
+    left: 50%;
+    z-index: 3;
+}
+
+#Unidade {
+    position: absolute;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    font-weight: 700;
+    left: 1000px;
+    top: 50px;
+}
+
+#TEL {
+    position: absolute;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    font-weight: 700;
+    left: 1000px;
+    top: 75px;
+}
+
+#endereço {
+    position: absolute;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    font-weight: 700;
+    left: 1000px;
+    top: 100px;
+}
+
+
+
+#Relate {
+    position: absolute;
+    height: 43px;
+    width: 250px;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    font-family: Arial;
+    font-weight: 700;
+    top: 60px;
+    left: 1560px;
+    font-size: 19px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+footer {
+    position: absolute;
+    top: 180px;
+    width: 100%;
+    margin-top: -60px;
+    padding: 10px 0;
+    background-color: black;
+    color: #aaa;
+    justify-items: center;
+}
+
+#Tel {
+    position: absolute;
+    left: 200px;
+    top: 5px;
+}
+
+footer p {
+    font-size: 14px;
+}
