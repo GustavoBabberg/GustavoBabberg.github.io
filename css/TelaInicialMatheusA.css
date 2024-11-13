@@ -19,6 +19,17 @@ a{
     height: 67px;
     width: 100%;
 }
+
+.cabeçalho h1 {
+    position: absolute;
+    color: white;
+    font-weight: 700;
+    font-family: arial;
+    font-size: 23px;
+    left: 1580px;
+    top: 20px;
+}
+
 #logo-empresa {
     position: absolute;
     height: 67px;
