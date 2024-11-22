@@ -20,6 +20,81 @@ a{
     width: 100%;
 }
 
+#Estudante {
+    position: absolute;
+    left: 1250px;
+    top: 140px;
+    width: 440px;
+    height: 619px;
+}
+
+#Line1 {
+    position: absolute;
+    left: 780px;
+    top: 500px;
+}
+
+#Preto1 {
+    position: absolute;
+    font-weight: 700;
+    font-size: 96px;
+    font-family:sans-serif;
+    top: 150px;
+    left: 500px;
+}
+
+#Preto2 {
+    position: absolute;
+    font-weight: 700;
+    font-size: 96px;
+    font-family:sans-serif;
+    top: 235px;
+    left: 500px;
+}
+
+#Branco1 {
+    position: absolute;
+    font-weight: 700;
+    font-size: 110px;
+    color: white;
+    text-shadow: #00EEFF  0px 04px 0px ;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    font-family:sans-serif;
+    top: 135px;
+    left: 585px;
+}
+
+#Branco2 {
+    position: absolute;
+    font-weight: 700;
+    font-size: 110px;
+    color: white;
+    text-shadow: #00EEFF  0px 04px 0px ;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    font-family:sans-serif;
+    top: 325px;
+    left: 500px;
+}
+
+#logo-laguna {
+    position: absolute;
+    left: 850px;
+    top: 485px;
+    width: 267px;
+    height: 184px;
+}
+
+#logo-empresa1 {
+    position: absolute;
+    left: 455px;
+    top: 485px;
+    width: 267px;
+    height: 184px;
+    border-radius: 30px;
+}
+
 .cabeçalho h1 {
     position: absolute;
     color: white;
